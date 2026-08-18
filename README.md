@@ -1,6 +1,6 @@
 # vts
 img {
-    max-width: 100%; /* Изображение не будет шире контейнера */
-    height: auto; /* Высота автоматически подстраивается под ширину */
+    max-width: 100%;
+    height: auto;
+    <img src="vts1.jpg"head_">
 }
-<img src="vts1.jpg" alt="Описание изображения">
