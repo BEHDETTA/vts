@@ -8,7 +8,11 @@
     scrollbar-color: var(--primary-color) var(--secondary-color);
     font-size: clamp(18px, 3vw, 30px);
 }
-
+img {
+    width: 100%; /* Ширина 100% от контейнера */
+    height: 100%; /* Высота 100% от контейнера */
+    object-fit: contain; /* Изображение полностью вмещается в контейнер, сохраняя пропорции */
+}
 * {
     margin: 0;
     padding: 0;
