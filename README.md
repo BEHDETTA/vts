@@ -2,5 +2,5 @@
 img {
     max-width: 100%;
     height: auto;
-    <img src="vts1.jpg"head_">
-}
+    }
+<img src="vts1.jpg"head_">
